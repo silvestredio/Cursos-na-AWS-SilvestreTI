@@ -319,6 +319,44 @@
 
 ![2021 09 07 AWS Build a Text Classification Model with AWS Glue and Amazon SageMaker](https://user-images.githubusercontent.com/93165498/141812348-7109ca71-f9b4-407f-b5f5-3fd84dd89939.jpg) 
 
+![2021 09 08 AWS Lambda Function Security DefenseInDepth](https://user-images.githubusercontent.com/93165498/141812920-d83a7247-d2b3-4447-9448-1b42071bdd9d.jpg)
 
+![2021 09 08 AWS Using Feedback Loops to Improve Confidence Level of Transcription](https://user-images.githubusercontent.com/93165498/141812951-a4a00648-ca83-498e-bb04-dee639333541.jpg)
+
+![2021 09 09 AWS Machine Learning in the Cloud with AWS Batch](https://user-images.githubusercontent.com/93165498/141812984-f66985b7-00e8-4074-b90a-ca49a7ab6c9f.jpg)
+
+![2021 09 09 AWS What is Machine Learning](https://user-images.githubusercontent.com/93165498/141813004-15c96b4f-0eb6-4a9e-98c3-f2c13495ff19.jpg)
+
+![2021 09 10 AWS Messaging Services Overview](https://user-images.githubusercontent.com/93165498/141813025-0f83050e-15e0-48d6-851a-3899ef8a9d3c.jpg)
+
+![2021 09 11 AWS AWS Database Services Navigate Business](https://user-images.githubusercontent.com/93165498/141813043-da747ff2-4cb0-4c5e-83d7-aedf18123ba6.jpg)
+
+![2021 09 11 AWS Introduction to Amazon Cloud Directory](https://user-images.githubusercontent.com/93165498/141813054-9f15da47-e180-4f34-93cb-cc76738e42bb.jpg)
+
+![2021 09 11 AWS OLA Partner Accelerator Tool Overview Technical](https://user-images.githubusercontent.com/93165498/141813077-7694177e-ebf2-4487-97e5-82882d3b9ee3.jpg)
+
+![2021 09 12 AWS Optimization and Licensing Assessment Business](https://user-images.githubusercontent.com/93165498/141813099-08012166-737b-4630-8f9e-f52ea0a78c1c.jpg)
+
+![2021 09 12 AWS VMware on AWS Technical Overview](https://user-images.githubusercontent.com/93165498/141813112-b6eaf79d-e858-4d71-b2d0-701282449f7b.jpg)
+
+![2021 09 13 AWS Introduction to Amazon Kinesis Streams Italian](https://user-images.githubusercontent.com/93165498/141813137-fc870eba-36bf-4106-92a6-61f4dff02ed8.jpg)
+
+![2021 09 13 AWS Subscribing to SaaS contract private offers EMEA Business](https://user-images.githubusercontent.com/93165498/141813156-004bea39-9fca-4e4b-8f41-904e018194f8.jpg)
+
+![2021 09 14 AWS Connect Service Delivery Partner Business](https://user-images.githubusercontent.com/93165498/141813175-e3f5d9ac-2ee4-4949-936d-dc4a3aa299cc.jpg)
+
+![2021 09 14 AWS OLA A briefing for Microsoft workload partners Business](https://user-images.githubusercontent.com/93165498/141813189-8d62f055-f99b-4dda-b509-5898f930c556.jpg)
+
+![2021 09 15 AWS Cost Management Tools  Technical Spanish](https://user-images.githubusercontent.com/93165498/141813208-a993f3be-4d6f-4008-b3ea-0cd53e50fe15.jpg)
+
+![2021 09 15 AWS Introducción al Cloud Financial Management Business](https://user-images.githubusercontent.com/93165498/141813234-a9902328-9777-4709-b0e1-1e41a1395bd3.jpg)
+
+![2021 10 13 AWS  CloudFormation](https://user-images.githubusercontent.com/93165498/141813252-36304983-9a28-443f-8c2f-6010e538b844.jpg)
+
+![2021 10 13 AWS Protecting Your Instance with Security Groups](https://user-images.githubusercontent.com/93165498/141813265-5c23b9f0-dcaf-4ffc-97b6-03b4a1e4ca3a.jpg)
+
+![2021 10 13 AWS Training  Certification AWS Certified Solutions Architect Associate Technical Spanish](https://user-images.githubusercontent.com/93165498/141813278-a96fd887-c4da-49a9-b76f-69f2f74adba9.jpg)
+
+![2021 10 14 AWS Configurar Workspaces y VPN para acceder a las aplicaciones on-premise  Technical Spanish](https://user-images.githubusercontent.com/93165498/141813291-bf6cba55-6350-49fa-bc20-f086e12ba548.jpg)
 
 
