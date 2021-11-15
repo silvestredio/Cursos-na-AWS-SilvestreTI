@@ -221,3 +221,37 @@
 
 ![AWS Classroom 05 AWS Solutions Training for Partners Machine Learning on AWS Business  10 Fev 2021 São Paulo BRA](https://user-images.githubusercontent.com/76437195/107541761-da36e400-6b9d-11eb-8b7d-8e5345570959.jpg)
 
+![2021 08 13 OSF AWS  CloudTrail](https://user-images.githubusercontent.com/93165498/141792682-58c0ad3a-4591-4047-98cf-de1c2de36a74.jpg)
+
+![2021 08 13 OSF AWS Introtucion to AWS CloudFormation](https://user-images.githubusercontent.com/93165498/141792706-ef4e07f9-2000-46c8-90dc-4b9110d59714.jpg)
+
+![2021 08 13 OSF AWS Protecting Your Instance with Security Groups](https://user-images.githubusercontent.com/93165498/141792731-eb9c9372-535d-4a81-adc1-fdc0b5c67b26.jpg)
+
+![2021 08 13 OSF AWS RedShift](https://user-images.githubusercontent.com/93165498/141792754-ec118df6-cd54-41d7-b00e-d0aeb115005d.jpg)
+
+![2021 08 16 OSF AWS EC2](https://user-images.githubusercontent.com/93165498/141792774-02e3524c-2075-4ee6-8fdc-be5b8aa94864.jpg)
+
+![2021 08 16 OSF AWS IAM](https://user-images.githubusercontent.com/93165498/141792785-033961ed-580c-4cde-aec6-fae164be7578.jpg)
+
+![2021 08 17 OSF AWS Amazon CloudFront](https://user-images.githubusercontent.com/93165498/141792800-4f0b6a29-c765-43f2-81c0-bc2cb4dee960.jpg)
+
+![2021 08 17 OSF AWS EBS Encryption](https://user-images.githubusercontent.com/93165498/141792820-35a67aec-7290-4afb-a094-bc139a74016f.jpg)
+
+![2021 08 18 OSF AWS Arrow UKIR](https://user-images.githubusercontent.com/93165498/141792869-955526e8-b84a-4f15-8b1e-6b6803b848ab.jpg)
+
+![2021 08 18 OSF AWS Deep Learning](https://user-images.githubusercontent.com/93165498/141792885-1932c04c-56b4-4807-b877-d9a928252dea.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
