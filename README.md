@@ -239,7 +239,29 @@
 
 ![2021 08 18 OSF AWS Arrow UKIR](https://user-images.githubusercontent.com/93165498/141792869-955526e8-b84a-4f15-8b1e-6b6803b848ab.jpg)
 
-![2021 08 18 OSF AWS Deep Learning](https://user-images.githubusercontent.com/93165498/141792885-1932c04c-56b4-4807-b877-d9a928252dea.jpg)
+![2021 08 18 OSF AWS Deep Learning](https://user-images.githubusercontent.com/93165498/141792885-1932c04c-56b4-4807-b877-d9a928252dea.jpg) 
+
+![2021 08 20 OSF AWS Cost Optimization Business](https://user-images.githubusercontent.com/93165498/141794040-5aa12e81-886d-4437-b6b3-f86645078f45.jpg)
+
+![2021 08 20 OSF AWS Lake Formation AWS Glue APJC](https://user-images.githubusercontent.com/93165498/141794072-1b388f4f-83d3-41f7-8a6d-fcf47b1b5f76.jpg)
+
+![2021 08 21 OSF AWS ISV Tech Talk](https://user-images.githubusercontent.com/93165498/141794099-a898fa2d-25dc-4de6-ba3d-074388297900.jpg)
+
+![2021 08 21 OSF AWS ML AWS Batch](https://user-images.githubusercontent.com/93165498/141794123-bdb9a692-f1bc-4266-9a66-b630677cf1c2.jpg)
+
+![2021 08 23 OSF AWS APN Navigate](https://user-images.githubusercontent.com/93165498/141794256-bc7a057f-6404-4455-8877-0ec5f6383921.jpg)
+
+![2021 08 23 OSF AWS STS](https://user-images.githubusercontent.com/93165498/141794301-efb594d7-0afb-441e-8385-d9b5bc1c1278.jpg) 
+
+![2021 08 25 OSF AWS Amazon DocumentDB Service](https://user-images.githubusercontent.com/93165498/141794332-894bea06-da76-4f2a-bb4b-10f13f05b0b6.jpg)
+
+![2021 08 25 OSF AWS Serverless Analtics](https://user-images.githubusercontent.com/93165498/141794349-719a594a-775c-4a8c-886e-862d8172b5b3.jpg)
+
+![2021 08 27 OSF AWS CloudChomp](https://user-images.githubusercontent.com/93165498/141794358-c9279ccf-150d-4637-81ad-b2c0c33690a9.jpg)
+
+![2021 08 27 OSF AWS CloudEndure for SAP](https://user-images.githubusercontent.com/93165498/141794368-70f9768a-f201-48e2-a60d-c04ed4122802.jpg) 
+
+
 
 
 
