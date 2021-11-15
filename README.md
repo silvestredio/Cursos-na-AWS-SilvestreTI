@@ -261,7 +261,33 @@
 
 ![2021 08 27 OSF AWS CloudEndure for SAP](https://user-images.githubusercontent.com/93165498/141794368-70f9768a-f201-48e2-a60d-c04ed4122802.jpg) 
 
+![2021 08 27 OSF AWS EMEA](https://user-images.githubusercontent.com/93165498/141796316-1c0dcd50-6cc3-40bf-bae0-0543caea7105.jpg)
 
+![2021 08 27 OSF AWS PartenerCast APN](https://user-images.githubusercontent.com/93165498/141796352-501df9f9-4a7c-4c48-9fdb-4135e67ed32e.jpg)
+
+![2021 08 28 OSF AWS APN Windows Programs](https://user-images.githubusercontent.com/93165498/141796373-ffdba713-9550-4c93-a458-5f7af85f7065.jpg)
+
+![2021 08 28 OSF AWS EMEA 2020](https://user-images.githubusercontent.com/93165498/141796387-3e0c9f74-d993-43c2-91d2-cfdf4723c365.jpg)
+
+![2021 08 28 OSF AWS MAP 2pt0 Roadshow](https://user-images.githubusercontent.com/93165498/141796413-62501773-9557-489b-9319-0b59b479035e.jpg)
+
+![2021 08 28 OSF Designing Modern App on AWS](https://user-images.githubusercontent.com/93165498/141796435-9a6c87a7-0f5f-41eb-ad83-7c862bc92d36.jpg)
+
+![2021 08 29 OSF AWS Amazon Redshift SageMaker](https://user-images.githubusercontent.com/93165498/141796449-cc9868ed-e8cc-4ed5-8822-178531d4f5a4.jpg)
+
+![2021 08 29 OSF AWS APN Leaders ML](https://user-images.githubusercontent.com/93165498/141796467-338dee44-ff37-4de8-ba70-a5c08d203d95.jpg)
+
+![2021 08 29 OSF AWS Support Plans](https://user-images.githubusercontent.com/93165498/141796488-41bb32a6-91af-4376-aec1-81ddaaff8675.jpg)
+
+![2021 08 29 OSF AWS VMware Cloud](https://user-images.githubusercontent.com/93165498/141796507-d1ad1a74-d7c6-4b39-bd9f-89747ec16f0b.jpg)
+
+![2021 08 30 OSF AWS Markplace CPPO and Palo Alto Networks](https://user-images.githubusercontent.com/93165498/141796526-f741d56c-b578-4cbd-82d4-cf9e29dca1d0.jpg)
+
+![2021 08 30 OSF AWS ML Machine Learning](https://user-images.githubusercontent.com/93165498/141796545-791854a9-7605-4e8d-94df-44571c1c756b.jpg)
+
+![2021 08 31 OSF AWS Amazon Apache Hadoop Spark EMR](https://user-images.githubusercontent.com/93165498/141796561-504aad40-2df5-46ff-8ff2-a6bb787a4782.jpg)
+
+![2021 08 31 OSF AWS Amazon Neptune](https://user-images.githubusercontent.com/93165498/141796570-1fcf910b-5cde-43e7-a65b-306115f963fb.jpg)
 
 
 
