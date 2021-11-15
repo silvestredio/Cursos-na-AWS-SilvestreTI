@@ -331,7 +331,7 @@
 
 ![2021 09 11 AWS AWS Database Services Navigate Business](https://user-images.githubusercontent.com/93165498/141813043-da747ff2-4cb0-4c5e-83d7-aedf18123ba6.jpg)
 
-![2021 09 11 AWS Introduction to Amazon Cloud Directory](https://user-images.githubusercontent.com/93165498/141813054-9f15da47-e180-4f34-93cb-cc76738e42bb.jpg)
+![2021 09 11 AWS Introduction to Amazon Cloud Directory](https://user-images.githubusercontent.com/93165498/141813823-fe4c36ed-f2c5-4433-b06d-2ef8d597119a.jpg)
 
 ![2021 09 11 AWS OLA Partner Accelerator Tool Overview Technical](https://user-images.githubusercontent.com/93165498/141813077-7694177e-ebf2-4487-97e5-82882d3b9ee3.jpg)
 
