@@ -289,16 +289,35 @@
 
 ![2021 08 31 OSF AWS Amazon Neptune](https://user-images.githubusercontent.com/93165498/141796570-1fcf910b-5cde-43e7-a65b-306115f963fb.jpg)
 
+![2021 09 01 ASWS Introduction to AWS Elastic Beanstalk](https://user-images.githubusercontent.com/93165498/141812082-7500f969-4a2e-4ff9-b197-7827d506913d.jpg)
 
+![2021 09 01 AWS Consulting Partner Private Offers overview - Business](https://user-images.githubusercontent.com/93165498/141812108-1605744a-690a-49d9-966a-fad78ba126ad.jpg)
 
+![2021 09 02 AWS GovCloud US Region Overview](https://user-images.githubusercontent.com/93165498/141812135-49be256c-cf57-4bb7-89d5-abdbeddedd4a.jpg)
 
+![2021 09 02 AWS Pass Your Tier 2 Speaker Certification Now - Business](https://user-images.githubusercontent.com/93165498/141812156-1d2da768-eb4f-4ccc-ae2c-8b9027b48fd1.jpg)
 
+![2021 09 02 AWS What is Machine Learning Portuguese](https://user-images.githubusercontent.com/93165498/141812193-c15c9a4a-e3df-40fc-a5ae-cc2be55278be.jpg)
 
+![2021 09 03 AWS Aurora Cost Deep Dive   Optimization - Technical](https://user-images.githubusercontent.com/93165498/141812204-dafae41b-fb5f-43c0-ad63-6073fe793c69.jpg)
 
+![2021 09 03 AWS Creating an IAM Role for AWS Partner Led Support](https://user-images.githubusercontent.com/93165498/141812230-1c68596c-7321-4c0b-b8ae-5992a51582b8.jpg)
 
+![2021 09 03 AWS Data Analytics Summit - Create Data Driven Applications With Embedded Analytics - Business](https://user-images.githubusercontent.com/93165498/141812240-37ecc021-05c1-4520-8a2f-f4fc1d7c5637.jpg)
 
+![2021 09 04 AWS Amazon Elastic MapReduce EMR Italian](https://user-images.githubusercontent.com/93165498/141812259-8530f19d-3b81-4524-b625-b7315a481bd8.jpg)
 
+![2021 09 04 AWS Satellite Image Classification in SageMaker Italian](https://user-images.githubusercontent.com/93165498/141812272-1afbdeea-decd-44f5-be4b-311a82c795cc.jpg)
 
+![2021 09 05 AWS Security Specialty exam Episode 2](https://user-images.githubusercontent.com/93165498/141812287-6f9294c6-fc9b-466a-881d-7082213fe9ed.jpg)
+
+![2021 09 05 AWS SysOps Administrator Associate exam Episode 3](https://user-images.githubusercontent.com/93165498/141812303-cb762f43-88a7-4fc8-ad47-4c2aa067ad9a.jpg)
+
+![2021 09 06 AWS  Machine Learning ML Specialty exam Episode 1](https://user-images.githubusercontent.com/93165498/141812313-ac36efcf-317f-4e95-a5c2-d0cfce2b239e.jpg)
+
+![2021 09 06 AWS Amazon Route 53 Resolver](https://user-images.githubusercontent.com/93165498/141812333-410d966c-24cc-4b3b-a2dc-9c9dd94ecf76.jpg)
+
+![2021 09 07 AWS Build a Text Classification Model with AWS Glue and Amazon SageMaker](https://user-images.githubusercontent.com/93165498/141812348-7109ca71-f9b4-407f-b5f5-3fd84dd89939.jpg) 
 
 
 
